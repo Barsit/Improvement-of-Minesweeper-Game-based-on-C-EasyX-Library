@@ -1,5 +1,0 @@
-visitor	56
-visitor	52
-visitor	60
-visitor	41
-visitor	64
